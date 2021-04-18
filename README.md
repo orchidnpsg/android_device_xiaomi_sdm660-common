@@ -54,9 +54,10 @@ The Xiaomi Redmi Note 6 Pro (codenamed _"tulip"_) is a mid-range smartphone from
 ## Copyright
 
 ```
--How to reach me **aosporchid@gmail.com**
+- How to reach me **aosporchid@gmail.com**
 
- **"its that simple"**
+<h1 align="center">"its that simple"</h1>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
