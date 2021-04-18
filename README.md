@@ -1,4 +1,4 @@
-This repository contains common device configuration for Xiaomi sdm660-based devices
+This repository contains common device configuration for **Xiaomi sdm660-based** devices
 
 The Xiaomi Redmi Note 6 Pro (codenamed _"tulip"_) is a mid-range smartphone from Xiaomi announced in September 2018.
 
